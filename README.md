@@ -1,2 +1,2 @@
 # my-first-web-project
-My solutions to web development exercises  , written with 
+My solutions to web development exercises  , written with HTML & CSS 
